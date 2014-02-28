@@ -1,0 +1,1 @@
+A simple notepad copy using Swing
